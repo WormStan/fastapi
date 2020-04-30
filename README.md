@@ -1,2 +1,1 @@
-# fastapi
-fast api usage
+uvicorn main:app --reload --port 8081
